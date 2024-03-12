@@ -91,7 +91,7 @@ cd helloworld
 leo run main 0u32 1u32
 ```
 
-## discord 🖥️
+## 🖥️ Discord 
 ```bash
 # discord user
 discordusername = "danntey"
