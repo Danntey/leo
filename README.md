@@ -95,7 +95,7 @@ leo run main 0u32 1u32
 ```bash
 # discord user
 discordusername = "danntey"
-
+```
 The `leo new` command creates a new Leo project with a given name.
 
 The `leo run` command will compile the program into Aleo instructions and run it.
